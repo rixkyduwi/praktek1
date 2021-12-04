@@ -1,4 +1,4 @@
-package com.rizkydwisaputra.praktek.model
+package com.rizkydwisaputra.praktek1.model
 
 class AlphaChar {
     var iconChar:Int?=0

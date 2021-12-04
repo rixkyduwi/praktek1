@@ -1,12 +1,12 @@
-package com.rizkydwisaputra.praktek
+package com.rizkydwisaputra.praktek1
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.rizkydwisaputra.praktek.adapter.AlphaAdapters
-import com.rizkydwisaputra.praktek.model.AlphaChar
+import com.rizkydwisaputra.praktek1.adapter.AlphaAdapters
+import com.rizkydwisaputra.praktek1.model.AlphaChar
 
 class MainActivity : AppCompatActivity() {
 

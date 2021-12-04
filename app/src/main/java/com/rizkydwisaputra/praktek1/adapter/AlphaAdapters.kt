@@ -1,4 +1,4 @@
-package com.rizkydwisaputra.praktek.adapter
+package com.rizkydwisaputra.praktek1.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -8,8 +8,8 @@ import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
-import com.rizkydwisaputra.praktek.R
-import com.rizkydwisaputra.praktek.model.AlphaChar
+import com.rizkydwisaputra.praktek1.R
+import com.rizkydwisaputra.praktek1.model.AlphaChar
 
 class AlphaAdapters(var context: Context, var arrayList: ArrayList<AlphaChar>):
     RecyclerView.Adapter<AlphaAdapters.ItemHolder>(){
